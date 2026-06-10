@@ -49,4 +49,4 @@ The analysis combines three datasets:
 * Business Analysis
 
 ## 📊 Dashboard Preview
-![Dashboard](./helldivers2_dashboard.png)
+![Dashboard](./dashboard_preview.png)
