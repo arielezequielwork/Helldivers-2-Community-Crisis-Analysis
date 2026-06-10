@@ -49,4 +49,4 @@ The analysis combines three datasets:
 * Business Analysis
 
 ## 📊 Dashboard Preview
-![Dashboard](./dashboard_preview.png)
+![Dashboard Preview](dashboard/dashboard_preview.png)
