@@ -65,3 +65,6 @@ The analysis combines three datasets:
 
 ## 📊 Dashboard Preview
 ![Dashboard Preview](dashboard/dashboard_preview.png)
+
+## 📄 Additional Documentation
+For a complete breakdown of the analysis, methodology, SQL queries, findings, and business recommendations, see the project report included in the `documents/` folder or the powerpoint executive presentation in the `presentation/` folder.
