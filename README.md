@@ -1,13 +1,15 @@
 # Helldivers 2 Community Crisis Analysis
 ## Project Overview
 
-This project analyzes the impact of the May 2024 PlayStation Network (PSN) controversy on the Helldivers 2 community.
+Helldivers 2 experienced a major community crisis in May 2024 following the announcement of a mandatory PlayStation Network account requirement for PC players. The controversy generated widespread negative feedback and raised concerns regarding player retention, brand reputation, and community growth.
 
-Using player activity, review sentiment, and community growth data, the analysis explores how a major public backlash affected player engagement, community sentiment, and overall player retention.
+This project evaluates the impact of the crisis by analyzing player activity, review sentiment, and follower growth trends to understand how community backlash translated into measurable business outcomes.
 
-## Business Question
-
-**How did the PSN account requirement controversy impact community sentiment and player retention?**
+## Business Objectives
+* Measure the impact of the PSN controversy on player engagement.
+* Evaluate changes in review sentiment before and after the announcement.
+* Assess whether community backlash translated into long-term player loss.
+* Identify indicators of community recovery following the crisis.
 
 ## Tools Used
 
@@ -32,12 +34,25 @@ The analysis combines three datasets:
 * **DATASET PLAYERS** – Player Activity Metrics
 * **DATASET FOLLOWERS** – Community Followers Growth
 
+## Analytical Approach
+* Combined review, player activity and follower datasets.
+* Cleaned and standardized date formats.
+* Created time-series analysis to compare pre-crisis and post-crisis periods.
+* Evaluated sentiment distribution and engagement trends.
+* Built interactive dashboards to monitor community response and retention metrics.
+
 ## Key Findings
 
 * Negative reviews peaked at **155K in a single day** following the PSN announcement.
 * Despite the backlash, player activity remained relatively resilient.
 * Overall review sentiment remained majority positive (**62.8% positive reviews**).
 * The controversy generated significant short-term reputational damage but did not permanently impact the player base.
+
+## Business Recommendations
+* Prioritize transparent communication during major policy changes.
+* Monitor review sentiment as an early indicator of community dissatisfaction.
+* Implement community engagement strategies immediately following controversial announcements.
+* Track player activity alongside sentiment metrics, as negative feedback does not always translate into player churn.
 
 ## Skills Demonstrated
 
